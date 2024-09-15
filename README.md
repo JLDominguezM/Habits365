@@ -29,6 +29,13 @@
     <h2>Technologies Used</h2>
     <ul>
         <li><strong>Apex Oracle</strong></li>
+        <li><strong>Geopy API</strong></li>
+        <li><strong>SKLearn</strong></li>
+        <li><strong>Python</strong></li>
+        <li><strong>DBSCAN Model</strong></li>
+        <li><strong>CSS</strong></li>
+        <li><strong>HTML5</strong></li>
+        <li><strong>Python</strong></li>
     </ul>
     <h2>License</h2>
     <p>This project is licensed under the MIT License.</p>
