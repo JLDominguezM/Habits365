@@ -14,10 +14,12 @@
         <li>Josué Iram Tijerina de León A01285977</li>
         <li>Emilio Puga Ascencio A01285821</li>
     </ul>
-   <h1>Credentials</h1>
+   <h2>Credentials</h2>
    <p><strong>Username:</strong> emilio</p>
    <p><strong>Password:</strong> 123</p>
-    <h2>Features</h2>
+   <h2>App link</h2>
+   <p>Check out the live project at: <a href="https://apex.oracle.com/pls/apex/r/chartank2_0/habits365/login?session=5967221203109" class="link" target="_blank">Habits 365 Home</a></p>
+        </div>    <h2>Features</h2>
     <ul>
         <li>Custom habit management.</li>
         <li>Progress tracking with graphs.</li>
