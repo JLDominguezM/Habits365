@@ -14,6 +14,9 @@
         <li>Josué Iram Tijerina de León A01285977</li>
         <li>Emilio Puga Ascencio A01285821</li>
     </ul>
+   <h1>Credentials</h1>
+   <p><strong>Username:</strong> emilio</p>
+   <p><strong>Password:</strong> 123</p>
     <h2>Features</h2>
     <ul>
         <li>Custom habit management.</li>
