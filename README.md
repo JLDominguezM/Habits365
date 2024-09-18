@@ -9,10 +9,10 @@
     <p><strong>Habits 365</strong> is an application designed to help you create, monitor, and maintain healthy habits throughout the year. With a user-friendly and intuitive interface, users can set daily, weekly, or monthly goals and track their progress. The app motivates you with reminders and visualizes your progress through graphs that reflect your commitment over time.</p>
     <h2>Contributors</h2>
     <ul>
-        <li>Hector Eduardo Tovar Mendoza A00840308</li>
-        <li>José Luis Domínguez Morales A01285873</li>
-        <li>Josué Iram Tijerina de León A01285977</li>
-        <li>Emilio Puga Ascencio A01285821</li>
+        <li>Hector Eduardo Tovar Mendoza</li>
+        <li>José Luis Domínguez Morales</li>
+        <li>Josué Iram Tijerina de León</li>
+        <li>Emilio Puga Ascencio</li>
     </ul>
    <h2>Credentials</h2>
    <p><strong>Username:</strong> emilio</p>
